@@ -1,6 +1,6 @@
 # OktaLogin
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
+Change the src/environments/environment.ts file to match your Okta settings.  The requestContext should point to the protected route.  If running locally then it should look like this: http://localhost:4200/protected
 
 ## Development server
 
